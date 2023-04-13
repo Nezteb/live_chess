@@ -29,6 +29,6 @@ Stockfish:
 - https://crates.io/crates/fishnet
   - By Lichess folks, but not meant as Stockfish implementation?
 - https://github.com/pleco-rs/Pleco
-  - Crate hasn't been updated in 4 years: https://crates.io/crates/pleco
+  - Crate hasn't been updated in 4 years: https://github.com/pleco-rs/Pleco/issues/153
 - https://crates.io/crates/stockfish-core
   - "a component of [stockfish-rs](https://github.com/stouset/stockfish-rs)"
