@@ -10,7 +10,7 @@
 
 ## Resources
 
-#### Other LiveView Chess Examples
+### Other LiveView Chess Examples
 
 - https://github.com/dberget/chesster
   - Uses Erlang binbo library: https://github.com/DOBRO/binbo
@@ -18,17 +18,10 @@
 - https://github.com/alectower/checkmate
 - https://github.com/yepesasecas/live_chess
 
-#### Stockfish with Rust
+### Stockfish
 
-Elixir NIFs with Rust:
-- https://github.com/rusterlium/rustler
-
-Stockfish:
 - https://github.com/official-stockfish/Stockfish
-  - Original C++
-- https://crates.io/crates/fishnet
-  - By Lichess folks, but not meant as Stockfish implementation?
-- https://github.com/pleco-rs/Pleco
-  - Crate hasn't been updated in 4 years: https://github.com/pleco-rs/Pleco/issues/153
-- https://crates.io/crates/stockfish-core
-  - "a component of [stockfish-rs](https://github.com/stouset/stockfish-rs)"
+  - Could use port
+    - https://hexdocs.pm/elixir/main/Port.html
+  - Or NIF
+    - https://andrealeopardi.com/posts/using-c-from-elixir-with-nifs/
