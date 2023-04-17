@@ -2,11 +2,12 @@
 
 ## Milestones
 
-1. Singleplayer chess with CLI/iex
-2. Singleplayer chess with LiveView
-3. Two-player chess with LiveView
-4. Basic chess "AI" that makes random (legal) moves
-5. Stockfish analysis
+1. UCI interface
+2. Singleplayer chess with CLI/iex
+3. Singleplayer chess with LiveView
+4. Two-player chess with LiveView
+5. Basic chess "AI" that makes random (legal) moves
+6. Stockfish analysis
 
 ## Resources
 
