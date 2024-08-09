@@ -6,7 +6,7 @@
 2. Singleplayer chess with CLI/iex
 3. Singleplayer chess with LiveView
 4. Login with Lichess
-  - https://github.com/lichess-org/api-demo/blob/master/src/auth.ts
+    - https://github.com/lichess-org/api-demo/blob/master/src/auth.ts
 6. Two-player chess with LiveView
 7. Basic chess "AI" that makes random (legal) moves
 8. Stockfish analysis
