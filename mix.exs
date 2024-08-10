@@ -52,12 +52,14 @@ defmodule LiveChess.MixProject do
        compile: false,
        depth: 1},
       {:finch, "~> 0.13"},
+      {:oauth2, "~> 2.0"},
       {:telemetry_metrics, "~> 1.0"},
       {:telemetry_poller, "~> 1.0"},
       {:gettext, "~> 0.20"},
       {:jason, "~> 1.2"},
       {:dns_cluster, "~> 0.1.1"},
-      {:bandit, "~> 1.5"}
+      {:bandit, "~> 1.5"},
+      {:binbo, "~> 4.0"}
     ]
   end
 
